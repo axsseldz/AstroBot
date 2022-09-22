@@ -4,6 +4,7 @@ import time
 hours = 9
 minutes = 0
 
+
 def main(hours, minutes) -> None:
     pywhatkit.sendwhatmsg(
         "+526461834219",
@@ -14,8 +15,8 @@ def main(hours, minutes) -> None:
         • 20:00 --> Do homework''',
         hours,
         minutes,
-        8, 
-        True, 
+        8,
+        True,
         2
     )
 
@@ -34,5 +35,3 @@ if __name__ == "__main__":
             hours += 1
             if hours == 25:
                 hours = 1
-           
-
