@@ -2,7 +2,7 @@
 
                                 Description
 
-Search Bot is designed to let you know when there is a certain item in stock, in this case the graphics cards, every so often it will check the page to give updates and notify you.
+Astro Bot was developed to send a message every morning at 9:00 am reminding you of the tasks you have to do during the day
 
 
 
